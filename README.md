@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of hamcq/flarum-auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/flarum-auth-qq) or the [upstream repository](https://github.com/HamCQ/flarum-auth-qq).
 
-**0** versions archived · Latest: [`2.1`](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.1) · License: `MIT` · Flarum: `*`
+**25** versions archived · Latest: [`2.1`](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.1) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v1.0.0) |
+| `1.0.0.1` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v1.0.0.1) |
+| `1.0.0.2` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v1.0.0.2) |
+| `1.0.0.3` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v1.0.0.3) |
+| `1.0.0.4` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v1.0.0.4) |
+| `2.0.0` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.0.0) |
+| `2.0.1` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.0.1) |
+| `2.0.10` | 2022-08-22 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.0.10) |
+| `2.0.11` | 2022-08-23 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.0.11) |
+| `2.0.12` | 2022-08-23 | `*` | [Browse](https://github.com/flarchive/hamcq-flarum-auth-qq/tree/archive/v2.0.12) |
+
+[View all 25 versions](https://github.com/flarchive/hamcq-flarum-auth-qq/tags)
 
 Catalog entry: [packages/hamcq-flarum-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-flarum-auth-qq.json)
 
